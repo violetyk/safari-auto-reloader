@@ -13,7 +13,8 @@ cd safari-auto-reloader/
 ln -s `pwd`/safari-auto-reloader.app \
 /Applications/safari-auto-reloader.app
 
-ln -s `pwd`/io.github.violetyk.safari-auto-reloader.plist ~/Library/LaunchAgents/io.github.violetyk.safari-auto-reloader.plist
+ln -s `pwd`/io.github.violetyk.safari-auto-reloader.plist \
+~/Library/LaunchAgents/io.github.violetyk.safari-auto-reloader.plist
 ```
 
 ## Load
